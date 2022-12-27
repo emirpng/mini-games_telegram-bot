@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardRemove, \
     ReplyKeyboardMarkup, KeyboardButton, \
     InlineKeyboardMarkup, InlineKeyboardButton
 
-token = '5536915116:AAFWYrLY-DiudhsieMf1vXepa33Eq4emqBg'
+token = '5841942016:AAEUeDRIkS7IdlKKnNWHBme6T1GfKHQGeSM'
 
 bot = Bot(token=token)
 dp = Dispatcher(bot, storage=MemoryStorage())
